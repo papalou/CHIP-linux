@@ -170,11 +170,12 @@
 	status = "okay";
 };
 
+/*
 &de {
 	allwinner,panel = <&panel>;
 	status = "okay";
 };
-
+*/
 &ehci0 {
 	status = "okay";
 };
